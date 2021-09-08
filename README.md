@@ -1,0 +1,2 @@
+# RepeticaoFor
+For ( Enquanto simplificado )
